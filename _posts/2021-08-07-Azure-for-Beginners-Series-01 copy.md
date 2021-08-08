@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Azure For Begineers - Episode 1"
-categories: [ Azure, Cloud, Events ]
+title:  "Kubernetes - Final Part"
+categories: [ Kubernetes, Cloud, Events ]
 image: assets/images/azure1.jpg
-external_url: https://www.linkedin.com/events/azureforbeginners-part1-malayal6827956472069058560/ 
+external_url: https://www.linkedin.com/events/kubernetes-finalpart6829708553163567104/
 ---
 
-On : _4 August 21_
+On : _7 August 21_
 
-**Series 1**  <br> <a href="https://www.youtube.com/watch?v=0XMyp4FSnsw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<br> 
 
 ### Follow Us On
 

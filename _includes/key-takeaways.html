@@ -2,7 +2,7 @@
 {% for post in site.posts %}
     <!-- check for Events-->
     {% for category in post.categories %}
-    {% if category == "Events" %}
+    {% if category == "Takeaways" %}
         <div class="eventbox">
         {{ post.date | date_to_string }} <br>
         {% if post.image %} <!-- img class="rounded mb-4" src="{{ site.baseurl }}/{{ post.image }}" alt="{  { post.title }}" --> {% endif %}

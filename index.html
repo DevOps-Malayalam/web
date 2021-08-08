@@ -41,9 +41,21 @@ background: '/img/bg-index.jpg'
     <div class="row">
       {% for post in paginator.posts %}
       {% unless post.featured == true %}
+      <!-- check for Events-->
+      {% assign thisisevent = false %}
+      {% for category in post.categories %}
+        {% if category == "Events" %}
+          {% assign thisisevent = true %}
+        {% endif %}
+      {% endfor %}
+      <!-- end of check for Events-->
+      
+      <!-- show only if this is not an event -->
+      {% if thisisevent == false %}
       <div class="col-md-6 mb-5">
         {% include postbox.html %}
       </div>
+      {% endif %}
       {% endunless %}
       {% endfor %}
     </div>

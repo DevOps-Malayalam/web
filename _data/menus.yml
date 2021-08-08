@@ -2,7 +2,7 @@
 topmenu:
 
 - title: Home
-  url: "https://devopsmalayalam.io"
+  url: ""
 
 - title: About
   url: "about/"
@@ -19,7 +19,7 @@ topmenu:
 footermenu:
 
 - title: Home
-  url: "https://devopsmalayalam.io"
+  url: ""
 
 - title: Privacy Policy
   url: "privacy-policy/"

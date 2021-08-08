@@ -5,14 +5,17 @@ permalink: "/contact/"
 comments: false
 ---
 
-Questions ? Please drop an email to <a href="mailto:devopskerala@gmail.com"><strong>devopskerala@gmail.com</strong></a>**
+## Questions ? 
 
-Join our community
+Please drop an email to <a href="mailto:devopskerala@gmail.com">**devopskerala@gmail.com<**/a>
 
-Linkedin
-Telegram
-Slack
-Facebook
+<strong>Join our community</strong>
+
+- [Linkedin](https://www.linkedin.com/company/devopsmalayalam)
+- [Telegram](#)
+- [Slack](#)
+
+
 <!--
 <form action="https://formspree.io/{{site.email}}" method="POST">    
 <p class="mb-4">Thank you for your interest in getting in touch with us. Please send your message here. We will reply as soon as possible!</p>
