@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About
+title: About DevOps Malayalam
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/devopsmal-ch.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
-
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+We are a grouop of **DevOps/SRE/DvSecOps** practitioners and aspirants from Kerala, India. Our rooms are focused on learning, relearning, upskilling and knowledge sharing on topics related to DevOps/Cloud/SRE/DevSecOps.
