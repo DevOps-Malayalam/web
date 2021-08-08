@@ -7,7 +7,7 @@ comments: false
 
 ## Questions ? 
 
-Please drop an email to <a href="mailto:devopskerala@gmail.com">**devopskerala@gmail.com<**/a>
+Please drop an email to **[devopskerala@gmail.com](mailto:devopskerala@gmail.com)**
 
 <strong>Join our community</strong>
 
