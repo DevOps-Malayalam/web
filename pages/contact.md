@@ -12,8 +12,8 @@ Please drop an email to <a href="mailto:devopskerala@gmail.com">**devopskerala@g
 <strong>Join our community</strong>
 
 - [Linkedin](https://www.linkedin.com/company/devopsmalayalam)
-- [Telegram](#)
-- [Slack](#)
+- [Telegram](https://t.me/joinchat/tninMc2bBGdiY2E1)
+- [Slack](https://join.slack.com/t/devopsmalayalam/shared_invite/zt-tuws4bts-9ZhKh5snDTuv8m7FiECv~g))
 
 
 <!--
