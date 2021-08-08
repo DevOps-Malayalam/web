@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Terraform For Begineers"
-categories: [ Terrafrom, Devops, DevOps ]
+title:  "Terraform For Begineers - Takeaway"
+categories: [ Terrafrom, Devops, Takeaway ]
 image: assets/images/1.jpg
 ---
-# DevOps Malayalam
-
-**Terraform**
 
 _28 July 21_ 
 <br> <a href="https://www.youtube.com/watch?v=5Sghd7vY6XA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />

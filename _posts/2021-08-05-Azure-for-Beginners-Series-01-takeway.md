@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Azure For Begineers - Series 1"
-categories: [ Azure, Cloud ]
+title:  "Azure For Begineers - Episode 1 Key Takeaways"
+categories: [ Azure, Cloud, Takeaway ]
 image: assets/images/azure1.jpg
 ---
 # DevOps Malayalam
