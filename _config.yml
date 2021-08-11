@@ -3,7 +3,7 @@ email: wowthemesnet@gmail.com
 timezone: UTC
 baseurl: "/web"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/devopslogo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 8
@@ -25,18 +25,18 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Alexy
+    display_name: Alexy
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
+    email: devopskerala@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: John
-    display_name: John
+    name: Sibin
+    display_name: Sibin
     avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
+    email: devopskerala@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
