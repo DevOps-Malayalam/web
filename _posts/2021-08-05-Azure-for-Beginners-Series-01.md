@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azure For Begineers - Episode 1"
+title:  "Azure For Begineers - EP 1"
 categories: [ Azure, Cloud, Events ]
 image: assets/images/azure1.jpg
 external_url: https://www.linkedin.com/events/azureforbeginners-part1-malayal6827956472069058560/ 
