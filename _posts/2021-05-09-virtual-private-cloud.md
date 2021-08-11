@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Virtual Private Cloud"
-author: Alexy
+author: alexy
 categories: [ VPC, Devops, DevOps, Takeaway ]
 image: assets/images/3.jpg
 ---

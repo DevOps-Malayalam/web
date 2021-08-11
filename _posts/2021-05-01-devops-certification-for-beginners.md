@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevOps Certification For Beginners"
-author: Alexy
+author: alexy
 categories: [ Certification, DevOps, Devops, Takeaway  ]
 image: assets/images/4.jpg
 ---

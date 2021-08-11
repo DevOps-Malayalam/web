@@ -24,7 +24,7 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
+  alexy:
     name: Alexy
     display_name: Alexy
     avatar: 'assets/images/sal.png'
@@ -32,7 +32,7 @@ authors:
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
+  sibin:
     name: Sibin
     display_name: Sibin
     avatar: 'assets/images/john.png'

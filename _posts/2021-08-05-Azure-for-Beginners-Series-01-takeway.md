@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Azure For Begineers [EP1] Key Takeaways"
-author: Alexy
+author: alexy
 categories: [ Azure, Cloud, Takeaways, DevOps ]
 image: assets/images/azure1.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terraform For Begineers - Takeaway"
-author: Alexy
+author: alexy
 categories: [ Terrafrom, Devops, Takeaway ]
 image: assets/images/1.jpg
 external_url: https://www.linkedin.com/events/kubernetes-finalpart6829708553163567104/
