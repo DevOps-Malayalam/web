@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Virtual Private Cloud"
-author: sal
-categories: [ VPC, Devops, DevOps, Virtual ]
+author: Alexy
+categories: [ VPC, Devops, DevOps, Takeaway ]
 image: assets/images/3.jpg
 ---
 # DevOps Malayalam

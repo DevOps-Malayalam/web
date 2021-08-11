@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "DevOps Certification For Beginners"
-author: sal
-categories: [ Certification, DevOps, Devops,  ]
+author: Alexy
+categories: [ Certification, DevOps, Devops, Takeaway  ]
 image: assets/images/4.jpg
 ---
 # DevOps Malayalam

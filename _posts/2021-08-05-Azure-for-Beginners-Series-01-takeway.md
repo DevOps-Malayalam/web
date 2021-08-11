@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Azure For Begineers [EP1] Key Takeaways"
-categories: [ Azure, Cloud, Takeaways ]
+author: Alexy
+categories: [ Azure, Cloud, Takeaways, DevOps ]
 image: assets/images/azure1.jpg
 ---
 # DevOps Malayalam
