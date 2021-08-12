@@ -5,9 +5,7 @@ author: alexy
 categories: [ Azure, Cloud, Takeaways, DevOps ]
 image: assets/images/azure1.jpg
 ---
-# DevOps Malayalam
 
-## **Azure For Beginners** 
 _4 August 21_ <br>
 <br>
 **Series 1**  <br> <a href="https://www.youtube.com/watch?v=0XMyp4FSnsw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />

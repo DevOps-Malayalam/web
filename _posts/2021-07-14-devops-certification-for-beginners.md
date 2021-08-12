@@ -5,9 +5,6 @@ author: alexy
 categories: [ Certification, DevOps, Devops, Takeaway  ]
 image: assets/images/4.jpg
 ---
-# DevOps Malayalam
-
-**DevOps Certification[Beginner]**
 
 _14 July 201 _
 
