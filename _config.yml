@@ -3,7 +3,7 @@ email: wowthemesnet@gmail.com
 timezone: UTC
 baseurl: "/web"
 permalink: "/:title/"
-logo: 'assets/images/devopslogo.png'
+logo: 'assets/images/devopslogo-v1.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 8
