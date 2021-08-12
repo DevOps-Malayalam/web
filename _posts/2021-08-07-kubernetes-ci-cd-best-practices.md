@@ -2,7 +2,8 @@
 layout: post
 title:  "Kubernetes Final Part [CI/CD best practices] Key Takeaways"
 categories: [ Kubernetes, Cloud, Takeaways, DevOps ]
-image: assets/images/kubl.jpg
+image: assets/images/k8s.jpg
+author: sibin
 external_url: https://www.linkedin.com/events/kubernetes-finalpart6829708553163567104
 ---
 # DevOps Malayalam
