@@ -13,6 +13,7 @@ _14 July 201 _
 * Certification helps to learn systematically and gives clear idea about the concepts
 * RedHat Certification
     * RHCE Certification better for beginners
+    * RHCSA (EX200) Certification
     * For Sysadmin roles
     * Ansible is included now
     * Certification is hands-on so companies give priority for redhat 
