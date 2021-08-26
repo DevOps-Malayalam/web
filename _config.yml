@@ -1,5 +1,5 @@
 title: "DevOps Malayalam"
-email: wowthemesnet@gmail.com
+email: devopskerala@gmail.com
 timezone: UTC
 baseurl: "/web"
 permalink: "/:title/"
@@ -37,8 +37,8 @@ authors:
     display_name: Sibin
     avatar: 'assets/images/john.png'
     email: devopskerala@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    web: https://devopsmalayalam.io/
+    twitter: https://twitter.com/
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social
