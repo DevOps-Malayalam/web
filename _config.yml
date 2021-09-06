@@ -42,10 +42,16 @@ authors:
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social
+# Get the socialmedia icons from https://icons.getbootstrap.com/
 social:
   linkedin: https://www.linkedin.com/company/devopsmalayalam
   telegram: https://t.me/joinchat/tninMc2bBGdiY2E1
   slack: https://join.slack.com/t/devopsmalayalam/shared_invite/zt-tuws4bts-9ZhKh5snDTuv8m7FiECv~g)
+  youtube: https://www.youtube.com/channel/UC2Ed4a2EWJJGsRctTUCO6oA
+  clubhouse: https://www.clubhouse.com/club/devops-malayalam-IYGx0c9f
+  facebook: https://www.facebook.com/DevOpsMalayalam
+  instagram: https://www.instagram.com/devopsmalayalam/
+
 
 # Plugins
 plugins: 

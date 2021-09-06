@@ -14,6 +14,10 @@ Please drop an email to **[devopskerala@gmail.com](mailto:devopskerala@gmail.com
 - [Linkedin](https://www.linkedin.com/company/devopsmalayalam)
 - [Telegram](https://t.me/joinchat/tninMc2bBGdiY2E1)
 - [Slack](https://join.slack.com/t/devopsmalayalam/shared_invite/zt-tuws4bts-9ZhKh5snDTuv8m7FiECv~g))
+- [YouTube](https://www.youtube.com/channel/UC2Ed4a2EWJJGsRctTUCO6oA)
+- [ClubHouse](https://www.clubhouse.com/club/devops-malayalam-IYGx0c9f)
+- [Facebook](https://www.facebook.com/DevOpsMalayalam)
+- [Instagram](https://www.instagram.com/devopsmalayalam)
 
 
 <!--
